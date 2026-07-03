@@ -153,7 +153,8 @@ Displays the number of failed login events.
     - I opened it, there I saw nothing like logon type, 
     - I went to gear/edit icon -> Added a new row -> put the filter of logon type(winlog.logon.type.keyword)
     - and got the answer
-![[4.png]]
+<img width="1917" height="960" alt="4" src="https://github.com/user-attachments/assets/fab0f3cd-3736-45f3-8b51-99f157b7b31d" />
+
 
     
 - ## Question 2

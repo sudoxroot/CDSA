@@ -337,9 +337,11 @@ ECS = Standard field naming across Elastic Stack.
     
     ## Solution:
     - Firstly I headed to the targeted url and opened the Discover section via side toggle.
-    - ![[1.png]]
+    - <img width="1911" height="910" alt="1" src="https://github.com/user-attachments/assets/f2cee29a-7f71-4763-9098-c2230180e9a9" />
+
     - after that I Changed the time, indexed the window and pasted the query which was given in the section.
-    - ![[2.png]]
+    - <img width="1920" height="961" alt="2" src="https://github.com/user-attachments/assets/7b978c8f-7474-4d0f-bbb0-3c447cba1363" />
+
     - Here, I got an event which I expended and after some scrolling I got the username.
 
 
@@ -349,7 +351,8 @@ ECS = Standard field naming across Elastic Stack.
     
     ## Solution:
     - This was quite simple, I pasted the query and got the result
-    - ![[3.png]]
+    - <img width="1914" height="956" alt="3" src="https://github.com/user-attachments/assets/3fdbd450-8430-4c31-94fe-7ee3d666f14b" />
+
 
 
 

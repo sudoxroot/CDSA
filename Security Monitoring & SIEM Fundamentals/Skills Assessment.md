@@ -252,3 +252,6 @@ Question and Answer
 ### Justification
 
 Looking at the login counts which is 6 that is not acceptable for the root user that why we should escalate a Tier 2/3 analyst.
+
+### Tribute to:
+https://medium.com/@k0schei/understanding-dashboard-of-elk-and-critical-thinking-like-soc-analyst-part-3-76e706955a6f

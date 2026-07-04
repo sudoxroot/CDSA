@@ -224,6 +224,9 @@ Administrator is the one who is performing this task and the count is only 1, th
 
 > Question :Navigate to Target, click on the side navigation toggle, and click on “Dashboard”. Review the “SSH Logins” visualization of the “SOC-Alerts” dashboard. Choose one of the following as your answer: “Nothing suspicious”, “Consult with IT Operations”, “Escalate to a Tier 2/3 analyst”
 
+
+Tribute to: https://medium.com/@k0schei/understanding-dashboard-of-elk-and-critical-thinking-like-soc-analyst-part-3-76e706955a6f
+
 Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*4AHaKG24cKtvuDgr8cll9w.png)

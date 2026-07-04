@@ -480,6 +480,7 @@ Monitoring these events helps quickly identify potentially dangerous changes to 
 ## Solution:
 - Firstly I opened the Dashboard and opened the mentioned visualization.
 - There I saw the timestamp already mentioned.
-![[5.png]]
+  <img width="1889" height="328" alt="Screenshot 2026-07-04 092621" src="https://github.com/user-attachments/assets/04d619bc-38d6-4aac-ab0d-29bbb08b1716" />
+
 
 

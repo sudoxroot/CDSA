@@ -704,7 +704,7 @@ These are the Event IDs you should recognize instantly:
 
 ```
 
-- After applying the current filter, we'll get the filtered result and any of the result which will contain TiWorker.exe will be our targeted log and you will get the time there also.
+- After applying the current filter, we'll get the filtered result and any of the result which will contain TiWorker.exe and run after the given time will be our targeted log and you will get the time there also.
 **Answer:** 10:23:50
 
 

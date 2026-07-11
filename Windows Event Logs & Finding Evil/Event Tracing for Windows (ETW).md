@@ -741,3 +741,14 @@ Recorded Broadcast
 - Many advanced detections—PowerShell abuse, DNS tunneling, registry persistence, RDP activity, and .NET execution—rely on ETW providers.
     
 - **Sysmon complements ETW** by exposing selected ETW telemetry as structured Windows event logs, making it easier for SOC analysts to query and investigate in SIEM platforms.
+  
+
+
+
+
+
+
+
+
+
+
